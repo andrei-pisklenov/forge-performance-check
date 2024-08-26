@@ -1,0 +1,10 @@
+{
+  "name": "jira-performance-checks",
+  "version": "0.0.0",
+  "main": "index.js",
+  "private": true,
+  "packageManager": "yarn@4.1.1",
+  "dependencies": {
+    "@forge/api": "^3.9.0"
+  }
+}
