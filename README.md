@@ -1,3 +1,7 @@
+> [!WARNING]  
+> This repository has been relocated to [https://github.com/andrei-pisklenov/forge-by-example](https://github.com/andrei-pisklenov/forge-by-example) and will be archived here (read-only). Please star/watch the new repository to stay updated with future developments. Thank you for your continued interest!
+
+
 # Performance Checks
 
 ## Installation
